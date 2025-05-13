@@ -114,6 +114,9 @@ h2{
     .btn button , #input{
         font-size: 1rem;
     }
+    .btn button{
+        padding: 10px;
+    }
     h1{
         margin-top: 5rem;
     }
